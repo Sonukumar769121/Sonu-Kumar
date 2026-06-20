@@ -122,9 +122,9 @@ I am **Sonu Kumar**, a multi-disciplinary Quality Assurance Engineer bridging th
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonukumar769121&theme=tokyonight&hide_border=false&count_private=true&layout=compact" width="48%" alt="Top languages" />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sonukumar769121/Sonu-Kumar/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sonukumar769121/Sonu-Kumar/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sonukumar769121/Sonu-Kumar/output/github-contribution-grid-snake.svg" width="48%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sonukumar769121/Sonukumar769121/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sonukumar769121/Sonukumar769121/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sonukumar769121/Sonukumar769121/output/github-contribution-grid-snake.svg" width="48%">
   </picture>
 </div>
 
